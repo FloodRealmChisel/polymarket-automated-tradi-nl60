@@ -1,4 +1,4 @@
-# 
+# Polymarket rare Strategy: portfolio-optimization & slippage-control is the best Polymarket strategy, featuring portfolio-optimization and slippage-control. Smart, fast, and
 
 
 
